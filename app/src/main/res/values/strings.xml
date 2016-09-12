@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Etiquetas Flotantes</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_correo">Correo</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="hint_seleccione_fecha">Seleccione Fecha</string>
+    <string name="hint_fecha">Fecha</string>
+    <string name="accion_aceptar">Siguiente</string>
+    <string name="accion_enviar">Enviar Datos</string>
+    <string name="confirmar_datos">Confirmar Datos</string>
+</resources>
